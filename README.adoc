@@ -69,9 +69,13 @@ The exploit works by achieveing the following:
 
 ## 4. Inspiration: 
 Some sources that really helped for this project are listed below:
+
 [Brian Greenberg] <https://www.youtube.com/watch?v=NCLUm8geskU&t=66s> 
+
 [Seed Security Labs] <https://seedsecuritylabs.org/Labs_16.04/Software/Return_to_Libc/> 
+
 [Seed Security Labs] <https://www.youtube.com/watch?v=DLmWb-yeFTY>
+
 [Iron Hackers] <https://ironhackers.es/en/tutoriales/introduccion-al-exploiting-parte-4-ret2libc-stack-6-protostar/>
 
 
