@@ -23,7 +23,8 @@ ID_LIKE=debian
 ...
 ```
 ### 2.1 Dependencies
- This project requires the following software to compile the program and execute the software. 
+his project requires the following software to compile the program and execute the software. 
+
  - GCC -GNU Code Compiler (pre-installed) with multilib 
 ```
 sudo apt-get install gcc-multilib -y
