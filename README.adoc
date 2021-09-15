@@ -6,12 +6,6 @@ The application is a 32bit application built on a Kali Linux 2021.2. It is desig
 
 The program will be exploited via a “return to lib c” style buffer overflow that will bypass the ASLR and NX bit security control. The exploit will take the form of a brute force attack, where the program will be launched from a python file that will run until a shell is produced. 
 
-A summary of the structure of this project is below: 
-| Directory | Contents |
-| ------ | ------ |
-| /app | Source code for vulnerable application.|
-| /exploit | Python exploit script |
-
 ## 2. Application 
 ### 2.0 Build Environment: 
 See below for information on the build environment. 
